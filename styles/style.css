@@ -1,0 +1,161 @@
+div{
+    color: rgba(0, 0, 0, 0.164);
+    background-color: rgba(0, 0, 0, 0.331);
+}
+.navbar{
+    background-color: black;
+    color: black;
+}
+#fom{
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 0.5cm;
+    padding: 0.1cm;
+    border-radius: 0.4cm;
+}
+#but{
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 0.5cm;
+    border-radius: 0.4cm;
+    background-color: #4CAF50;
+}
+#sign{
+    margin-left: 20px;
+    color: white;
+    /* background-color: black; */
+}
+body{
+    color: rgb(0, 0, 0);
+    background-image: url("https://www.gazabnews.com/wp-content/uploads/2019/08/banner-3_qlfca7.jpg");
+    background-blend-mode: lighten;
+    background-color: rgba(35, 34, 34, 0.58);
+    
+
+}
+img{
+    opacity: 0.7;
+}
+ul {
+    list-style-type: none;
+    margin-left: 600px;
+    padding: 8px;
+    /* background-color: rgba(17, 17, 17, 0.139); */
+  }
+  ui a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  div.forum {
+      margin-left: 40px;
+      padding: 0.21cm;
+      height: 400px; 
+      background-color: #111;
+      border-radius: 0.4cm;
+      width: 300px;
+      color: rgba(2, 250, 15, 0.945);
+  }
+  ui{
+      padding: 8px;
+      font-size: 18px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      text-decoration: none;
+     
+      color: black;
+        
+  }
+  ui:hover{
+      border-style: solid;
+      border-width: 0.1ch;
+      border-radius: 3ch;
+      background-color: black;
+      text-decoration: none;
+
+      color: greenyellow;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: #4CAF50;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #txt{
+      color: aqua;
+      font-size: 20;
+      font-family: cursive;
+  }
+  h4{
+  
+      font-size: 24px;
+      
+  }
+  #tandc{
+      margin-left: 22px;
+      font-family: cursive;
+      color: #4CAF50;
+  }
+  #signmethods{
+    height: 30px;
+    width: 30px;
+
+  }
+  footer{
+      color: rgba(17, 17, 17, 0.902);
+      margin-left: 0px;
+      background-color: rgba(0, 0, 0, 0.422);
+  }
+  #contfoot{
+      margin-left: 400px;
+  }
+  div.terms{
+      background-color: rgba(0, 0, 0, 0.555);
+      color: white;
+  }
+  span.guide{
+    display: inline-block;
+    height:35px;
+    line-height:35px
+  }
+  header{
+      text-decoration: none;
+  }
+  #div1{
+      display: inline-block;
+      background-color: #4CAF50;
+      width: 20px;
+      color: aqua;
+  }
+  #meradiv{
+      display: inline-block;
+      width: 30%;
+  }
+  #tguide{
+      background-color: black;
+      color: white;
+  }
+  #cb{
+   
+    margin-left: 22px;
+    
+}
+  /* #id{
+      margin-left: 50px;
+      width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 0.5cm;
+    padding: 0.1cm;
+    border-radius: 0.4cm;
+  } */
